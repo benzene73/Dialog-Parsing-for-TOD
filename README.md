@@ -65,7 +65,7 @@ For inference you can use [`inference.ipynb`](inference.ipynb).
 <a id="authors"></a>
 ## Authors
 - Vasanth K [(benzene73)](https://github.com/benzene73)
-- Naman Gupta [(rachit-0032)](https://github.com/rachit-0032)
+- Naman Gupta 
 
 
 
